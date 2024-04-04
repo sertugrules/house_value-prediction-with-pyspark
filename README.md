@@ -1,4 +1,5 @@
-# Ertuğrul Sert House_Price Prediction with PySpark"
+# House_Price Prediction with PySpark
+## Ertuğrul Sert
 The notebook titled "House_Price Prediction with PySpark" by Ertuğrul Sert is structured to guide the reader through a comprehensive house price prediction analysis using PySpark. The notebook is divided into several key sections, as summarized below:
 
 Spark Session Starting and Uploading our Data: This section likely details the initial setup procedures for Spark, including the instantiation of a Spark session and loading the dataset used for the analysis.
